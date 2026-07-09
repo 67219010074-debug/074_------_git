@@ -15,3 +15,8 @@ Phone Number : 0937682259
 - Canva
 - Capcut
 - Drive a car
+
+# Education
+- College : Hatyai Technical College
+- Program : Information Technology
+- Year : Vocational Certificate (Voc. Cert.3)
