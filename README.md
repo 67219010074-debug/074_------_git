@@ -25,3 +25,8 @@ Phone Number : 0937682259
 - Become a Software Developer
 - Learn DevOps
 - Learn Docker
+
+# My Hobby
+- Music
+- Reading
+- Drawing
