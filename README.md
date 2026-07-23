@@ -29,4 +29,7 @@ Phone Number : 0937682259
 # My Hobby
 - Music
 - Reading
-- Sleep
+- Movie
+
+# About
+- My birthday is 04/06/2008
