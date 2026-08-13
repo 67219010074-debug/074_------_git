@@ -35,3 +35,7 @@ Phone Number : 0937682259
 - My birthday is 04/06/2008
 # Experience
 - I'm good
+
+# favorite-place
+- zoo
+- school
